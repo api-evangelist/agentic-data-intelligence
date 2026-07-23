@@ -1,0 +1,67 @@
+# Agentic Data Intelligence
+
+> Last updated: 2026-07-01
+
+> The control plane for AI data analytics.
+
+> Automatically generated machine-readable semantics and a contract that enforce the behavior of AI agents during analysis.
+
+Agentic Data Intelligence SA is a Swiss-headquartered startup building a thin layer that sits between agents and data. ADI automatically generates machine-readable semantics and a contract (rules) used to enforce the behavior of copilots and agents conducting data analytics, increasing governance, accuracy and consistency, and lowering inference cost.
+
+ADI is data and platform agnostic. The Starter Edition is built for coding agents and IDEs; the Enterprise Edition is built for cloud data warehouses.
+
+## Products
+
+
+### Starter Edition
+- Built for individual developers, data engineers, and analysts adding semantic and control functionality to agents and agentic workflows that conduct data analytics
+- Designed to work with coding agents and IDEs: Claude Code, OpenClaw, Cursor, Manus
+- Delivered through SKILL.md files, plugins, and MCP Servers; Domain Packages for different data types to follow
+- Coming soon: Codex
+
+### Enterprise Edition
+- Built for startups and enterprises that use copilots and agents for data analytics and want to add a semantic and control layer to improve governance, accuracy and consistency
+- Designed to work with cloud data and analytics platforms: Snowflake, Databricks, dbt
+- Delivered through native apps that extend (not replace) existing catalog and governance, keeping data in your warehouse
+- Coming soon: Google BigQuery, Amazon Redshift
+
+## Key Capabilities
+- Understands your data: ADI creates its own semantic understanding of your raw data and generates a machine-readable semantics summary and contract (rules) for agents and copilots to use
+- Manages change and drift in semantics: easily update and view past versions of both the semantics and the contract
+- Minimal footprint and information transfer: ADI never sees your underlying data; the contract is generated from schema and context, and analysis runs locally
+- Domain agnostic: works with your own data or from marketplaces - product, sales, financial, market, and even blockchain data
+- Works where you conduct analytics: a thin layer across coding agents, IDEs, and data warehouses, with ADI's control plane running quietly in the background
+- Enforces agent behavior: because LLMs are non-deterministic, ADI's contract forces agents to use the data and generate SQL in the expected way
+- Built with Anthropic APIs, Pydantic AI, Pinecone, and Supabase. Starter edition also uses FastMCP and the Agent Skills framework. Supports the Open Semantic Interchange (OSI) initiative.
+
+## Status
+Accepting first partners. We are accepting users to the waitlist for our limited alpha release; request a place via the early access page.
+
+## Links
+
+- [Home](https://agentic-data.com)
+- [About](https://agentic-data.com/about)
+- [Demo](https://agentic-data.com/demo)
+- [Resources](https://agentic-data.com/resources)
+- [Early Access](https://agentic-data.com/access)
+- [Research (Substack)](https://agenticdataintelligence.substack.com)
+- [Privacy Policy](https://agentic-data.com/privacy)
+- [Terms of Service](https://agentic-data.com/terms)
+- [AI Notice](https://agentic-data.com/ai-notice)
+- [Full LLM Context](/llms-full.txt)
+
+## Contact
+
+- General: https://agentic-data.com
+- Privacy: privacy@agentic-data.com
+- Legal: legal@agentic-data.com
+- GitHub: https://github.com/agentic-data-intelligence
+- LinkedIn: https://www.linkedin.com/company/agenticdata
+- X/Twitter: https://x.com/agentic_data
+
+## Company
+
+Agentic Data Intelligence SA
+Esplanade de Pont-Rouge 9A, 1212 Grand-Lancy, Lancy, Switzerland
+Founded 2021. Backed by venture capital.
+Swiss law. Jurisdiction: Geneva, Switzerland.

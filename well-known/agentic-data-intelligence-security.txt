@@ -1,0 +1,6 @@
+# Security Contact for Agentic Data Intelligence
+# https://securitytxt.org/
+
+Contact: mailto:security@agentic-data.com
+Preferred-Languages: en
+Expires: 2027-03-12T00:00:00.000Z

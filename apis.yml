@@ -1,8 +1,28 @@
 aid: agentic-data-intelligence
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/agentic-data-intelligence.png
 name: Agentic Data Intelligence
-description: 'Agentic Data Intelligence is a company surfaced as a portfolio company of electric-capital
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Agentic Data Intelligence SA (ADI) is a Swiss-headquartered startup building
+  the control plane for AI data analytics: a thin semantics-and-control layer that sits
+  between AI agents and data. ADI automatically generates machine-readable semantics and
+  an enforceable contract (rules) that governs how copilots and agents conduct data analysis,
+  improving governance, accuracy, and consistency while lowering inference cost. It never
+  sees the underlying data, generating the contract from schema and context and running
+  analysis locally. The Starter Edition targets coding agents and IDEs (Claude Code, Cursor,
+  Manus) delivered via SKILL.md files, plugins, and MCP Servers; the Enterprise Edition
+  extends cloud data warehouses (Snowflake, Databricks, dbt). Backed by Electric Capital
+  and supporting the Open Semantic Interchange (OSI) initiative. Currently in limited alpha,
+  accepting first partners via a waitlist.'
 url: https://raw.githubusercontent.com/api-evangelist/agentic-data-intelligence/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -16,6 +36,14 @@ modified: '2026-07-17'
 tags:
 - Company
 - Ai
+- Data Analytics
+- Agents
+- MCP
+- Agent Skills
+- Semantics
+- Data Governance
+- Semantic Layer
+- Data Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +53,34 @@ maintainers:
 common:
 - type: Website
   url: https://agentic-data.com/
+- type: Blog
+  name: Research (Substack)
+  url: https://agenticdataintelligence.substack.com
+- type: SignUp
+  name: Early Access
+  url: https://agentic-data.com/access
+- type: TermsOfService
+  url: https://agentic-data.com/terms
+- type: PrivacyPolicy
+  url: https://agentic-data.com/privacy
+- type: GitHubOrganization
+  url: https://github.com/agentic-data-intelligence
+- type: LLMsTxt
+  name: llms.txt
+  url: llms/agentic-data-intelligence-llms.txt
+- type: WellKnown
+  url: well-known/agentic-data-intelligence-well-known.yml
+- type: SecurityTxt
+  url: well-known/agentic-data-intelligence-security.txt
+- type: VulnerabilityDisclosure
+  url: security/agentic-data-intelligence-vulnerability-disclosure.yml
+- type: Security
+  name: Security contact (security.txt)
+  url: security/agentic-data-intelligence-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/agentic-data-intelligence-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
