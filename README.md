@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Agentic Data Intelligence is a company surfaced as a portfolio company of electric-capital and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Agentic Data Intelligence SA (ADI) is a Swiss-headquartered startup building the control plane for AI data analytics: a thin semantics-and-control layer that sits between AI agents and data. ADI automatically generates machine-readable semantics and an enforceable contract (rules) that governs how copilots and agents conduct data analysis, improving governance, accuracy, and consistency while lowering inference cost. It never sees the underlying data, generating the contract from schema and context and running analysis locally. The Starter Edition targets coding agents and IDEs (Claude Code, Cursor, Manus) delivered via SKILL.md files, plugins, and MCP Servers; the Enterprise Edition extends cloud data warehouses (Snowflake, Databricks, dbt). Backed by Electric Capital and supporting the Open Semantic Interchange (OSI) initiative. Currently in limited alpha, accepting first partners via a waitlist.
 
-Backed by: electric-capital — https://agentic-data.com/
+**Areas:** Company · Artificial Intelligence · Data Analytics · Agents · MCP · Agent Skills · Semantics · Data Governance · Semantic Layer · Data Intelligence
+
+## Agentic Data Intelligence on APIs.io
+
+Everything profiled for Agentic Data Intelligence is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentic-data-intelligence/](https://apis.io/providers/agentic-data-intelligence/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentic Data Intelligence Domain Security](https://apis.io/security/agentic-data-intelligence/agentic-data-intelligence-domain-security/)
+- [Agentic Data Intelligence Vulnerability Disclosure](https://apis.io/security/agentic-data-intelligence/agentic-data-intelligence-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentic-data.com/)
+- [Sign up](https://agentic-data.com/access)
+- [Blog](https://agentic-data.com/blog/)
+- [Terms of service](https://agentic-data.com/terms)
+- [Privacy policy](https://agentic-data.com/privacy)
+- [GitHub](https://github.com/agentic-data-intelligence)
+
+## API Evangelist rating
+
+**Kin Score 9.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentic-data-intelligence/](https://apis.io/providers/agentic-data-intelligence/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Agentic Data Intelligence: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentic-data-intelligence/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
